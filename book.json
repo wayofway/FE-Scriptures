@@ -1,0 +1,27 @@
+{
+  "plugins": [
+    "-lunr",
+    "-search",
+    "search-pro",
+    "chapter-fold",
+    "splitter",
+    "back-to-top-button",
+    "github",
+    "tbfed-pagefooter",
+    "hide-element",
+    "copy-code-button"
+  ],
+  "pluginsConfig": {
+    "hide-element": {
+      "elements": [".fa-facebook", ".fa-twitter"]
+    },
+    "github": {
+      "url": "https://github.com/wayofway"
+    },
+    "tbfed-pagefooter": {
+      "copyright": "wayofway",
+      "modify_label": "Last modified：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+  }
+}
