@@ -10,6 +10,7 @@
     * [1. 闭包](编程语言/JavaScript/闭包.md)
     * [2. 防抖与节流](编程语言/JavaScript/防抖与节流.md)
     * [3. 事件循环](编程语言/JavaScript/事件循环.md)
+    * [4. 函数劫持](编程语言/JavaScript/函数劫持.md)
 * [第三章：算法与数据结构](算法与数据结构/README.md)
 * [第四章：前端框架](前端框架/README.md)
 * [第五章：网络](网络/README.md)
