@@ -4,7 +4,7 @@
 
 ## 分类
 
-![选择器分类](/Users/LIWEI/Documents/UI/FE-Scriptures/前端标准与规范/images/css selector category.png)
+![选择器分类](../images/css selector category.png)
 
 1. 基本选择器
 
