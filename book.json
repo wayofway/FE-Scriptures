@@ -1,4 +1,7 @@
 {
+  "title": "前端四十二章经",
+  "description": "Web frontend coding knowledges",
+  "styles": { "website": "styles/website.css" },
   "plugins": [
     "-lunr",
     "-search",
@@ -10,11 +13,17 @@
     "pageview-count",
     "tbfed-pagefooter",
     "hide-element",
-    "copy-code-button"
+    "copy-code-button",
+    "favicon",
+    "donate"
   ],
   "pluginsConfig": {
+    "favicon": {
+      "shortcut": "assets/images/favicon.ico",
+      "bookmark": "assets/images/favicon.ico"
+    },
     "hide-element": {
-      "elements": [".fa-facebook", ".fa-twitter"]
+      "elements": [".fa-facebook", ".fa-twitter", ".gitbook-link"]
     },
     "github": {
       "url": "https://github.com/wayofway"
@@ -23,6 +32,11 @@
       "copyright": "wayofway",
       "modify_label": "Last modified：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "donate": {
+      "wechat": "/assets/images/wechatPay.jpeg",
+      "title": "",
+      "button": "打赏"
     }
   }
 }
