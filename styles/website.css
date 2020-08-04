@@ -5,6 +5,7 @@
 #home-title {
   font-family: 'longyin';
   font-size: 85px;
+  font-weight: unset;
   text-align: center;
 }
 #home-content {
